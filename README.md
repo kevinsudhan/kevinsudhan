@@ -10,8 +10,6 @@
 <p align="center">
   <a href="https://resumekevin.netlify.app/">Portfolio</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://araxys-five.vercel.app">Araxys</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/kevinsudhan?tab=repositories">All repositories</a>
 </p>
 
@@ -21,7 +19,7 @@
 
 I'm a full-stack developer who builds **AI agents and the software around them**. Most of the work is the part that makes an agent trustworthy enough to put in front of real customers: grounding every claim in a source, guarding against promises it can't keep, and keeping a proper system of record underneath.
 
-- **Now** — building [Araxys](https://araxys-five.vercel.app): custom AI systems (agents, voice, retrieval, automation) engineered around the way a business already works.
+- **Now** — building **Araxys**: custom AI systems (agents, voice, retrieval, automation) engineered around the way a business already works.
 - **Lately** — voice desks for freight forwarding and crop-insurance claims. [Araxys Desk](https://github.com/kevinsudhan/snapserve-hackathon-final) placed 3rd at Voiceathon Round 2.
 - **Off the keyboard** — finance and automobiles.
 
