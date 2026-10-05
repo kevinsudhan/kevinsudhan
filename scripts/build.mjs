@@ -26,12 +26,11 @@ const projects = [
     tags: ['TypeScript', 'n8n', 'Voice agents', 'Docker'],
   },
   {
-    slug: 'araxys-desk',
-    title: 'Araxys Desk',
-    label: 'Voice agent',
-    badge: '3rd · Voiceathon',
-    desc: 'A farmer calls, describes crop damage in their own language, and an agent walks them through an insurance claim — every fact it speaks is cited.',
-    tags: ['FastAPI', 'Gemini Live', 'SnapServe', 'React'],
+    slug: 'dyna-braille',
+    title: 'Dyna Braille',
+    label: 'Assistive hardware',
+    desc: 'A camera spots what’s around you, a local LLM describes it aloud, and solenoids raise it as live Braille — built for visually impaired users.',
+    tags: ['Python', 'YOLOv8', 'OpenCV', 'Ollama', 'ESP32'],
   },
   {
     slug: 'localflow',

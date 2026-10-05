@@ -19,9 +19,7 @@
 
 I'm a full-stack developer who builds **AI agents and the software around them**. Most of the work is the part that makes an agent trustworthy enough to put in front of real customers: grounding every claim in a source, guarding against promises it can't keep, and keeping a proper system of record underneath.
 
-- **Now** — building **Araxys**: custom AI systems (agents, voice, retrieval, automation) engineered around the way a business already works.
-- **Lately** — voice desks for freight forwarding and crop-insurance claims. [Araxys Desk](https://github.com/kevinsudhan/snapserve-hackathon-final) placed 3rd at Voiceathon Round 2.
-- **Off the keyboard** — finance and automobiles.
+**Off the keyboard** — finance and automobiles.
 
 <br>
 
@@ -29,7 +27,7 @@ I'm a full-stack developer who builds **AI agents and the software around them**
 
 <p align="center">
   <a href="https://github.com/kevinsudhan/domain-specific-harness"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-harness-dark.svg"><img src="assets/card-harness-light.svg" width="49%" alt="Domain-Specific Harness — describe a business in one line and get a running operations system."></picture></a>
-  <a href="https://github.com/kevinsudhan/snapserve-hackathon-final"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-araxys-desk-dark.svg"><img src="assets/card-araxys-desk-light.svg" width="49%" alt="Araxys Desk — multilingual voice agent for crop-insurance claims, 3rd place at Voiceathon."></picture></a>
+  <a href="https://github.com/kevinsudhan/dYnabraille"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dyna-braille-dark.svg"><img src="assets/card-dyna-braille-light.svg" width="49%" alt="Dyna Braille — real-time vision turned into live tactile Braille and audio for visually impaired users."></picture></a>
   <br>
   <a href="https://github.com/kevinsudhan/LocalFLow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-localflow-dark.svg"><img src="assets/card-localflow-light.svg" width="49%" alt="LocalFlow — hold a key, speak, and polished text appears at your cursor, fully on-device."></picture></a>
   <a href="https://github.com/kevinsudhan/research-rag-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-growth-assistant-dark.svg"><img src="assets/card-growth-assistant-light.svg" width="49%" alt="Lenny Growth Assistant — grounded research over Lenny's Podcast where every sentence is cited."></picture></a>
@@ -44,7 +42,6 @@ I'm a full-stack developer who builds **AI agents and the software around them**
 
 - **[araxys-crm](https://github.com/kevinsudhan/araxys-crm)** — operations CRM for a freight forwarder, wired to a two-agent voice desk that quotes real rates and checks container space in 3D.
 - **[Araxys Shipmate](https://github.com/kevinsudhan/paytm-hackathon)** — the autonomy layer beside it: commitments, a shipment digital twin, a policy gate and an audit ledger, orchestrated with n8n.
-- **[Dyna Braille](https://github.com/kevinsudhan/dYnabraille)** — real-time vision that turns surroundings into dynamic tactile Braille and audio for visually impaired users.
 - **[Whistle](https://github.com/kevinsudhan/whistle)** — decentralized community microfinance on Polkadot's Westend Asset Hub.
 - **[med-rec](https://github.com/kevinsudhan/med-rec)** — a private, local-first health tracker I built for my grandparents.
 
